@@ -13,3 +13,6 @@
         </archive>
       </configuration>
 </plugin>
+<build>
+  <finalName>my-maven-docker-project</finalName>
+</build>
